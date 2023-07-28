@@ -8,7 +8,7 @@
     "npm": "7.4.3"
   },
   "scripts": {
-    "test":"echo \"Error:no test specified\" && exist 1",
+    "dev":"ndoemon indesx.js",
     "build":"npm i"
   },
   "author": "",
